@@ -1,4 +1,4 @@
-# <div align="center"/> Hi there 👋!
+# <div align="center"/> Hi guys
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1600&color=02B8F7&center=true&vCenter=true&width=500&lines=My+Name+is+Muhammad+Fikri;I+am+a+Full+Stack+Developer" alt="Typing SVG"/>
@@ -30,13 +30,6 @@ I am a student in the Applied Bachelor's Program in Informatics Engineering at *
 
 I am interested in building web, mobile, and desktop applications that are not only functional but also provide an optimal user experience. I am ready to contribute to the world of technology and provide innovative digital solutions.
 
-### 🚀 Quick Facts:
-- 🔥 Turning coffee into code since 2024
-- 🌐 Specialized in Next.js, Laravel, and IT Support
-- 🛠️ Solving real-world problems through elegant backend solutions
-- 📚 Always diving deeper into AI integration and System Design
-- 🤝 Eager to collaborate on innovative projects that push boundaries
-
 ## 🛠️ Technologies and Tools
 
 - **Languages**: Java, JavaScript, PHP, HTML, CSS
@@ -45,9 +38,6 @@ I am interested in building web, mobile, and desktop applications that are not o
 - **Tools**: Git, Figma, VS Code, XAMPP
 
 <p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -84,12 +74,6 @@ Feel free to reach out to me for any collaboration or discussion:
 - LinkedIn: [Muhammad Fikri](https://www.linkedin.com/in/muhammad-fikri-9075b2299)
 
 ## 🎁 Support My Work
-
-<div align="center">
-  <a href="https://saweria.co/MuhFikri">
-    <img src="https://img.shields.io/badge/Saweria-FF3030?style=for-the-badge&logo=saweria&logoColor=white"/>
-  </a>
-</div>
 
 <div align="center">
   <i>✨ "It's not a bug – it's an undocumented feature." - Muhammad Fikri ✨</i>

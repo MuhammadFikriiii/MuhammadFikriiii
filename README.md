@@ -58,7 +58,7 @@ I am interested in building web, mobile, and desktop applications that are not o
 
 ## 📈 GitHub Stats
 
-![Fikri's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadFikriiii&show_icons=true&theme=radical)<br/>
+![Fikri's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadFikriiii&show_icons=true&theme=radical&cache_seconds=1800)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadFikriiii&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFikriiii&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 

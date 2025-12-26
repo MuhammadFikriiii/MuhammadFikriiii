@@ -1,7 +1,7 @@
 # <div align="center">Hi there, I'm Fikri! 👋</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=3366FF&center=true&vCenter=true&width=500&lines=I+am+Muhammad+Fikri;Full+Stack+Web+Developer;IT+Support+Specialist;Donghua+Enthusiast+%F0%9F%8E%AC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=3366FF&center=true&vCenter=true&width=500&lines=I+am+Muhammad+Fikri;Full+Stack+Web+Developer;IT+Support+Specialist;Tech+Enthusiast+%F0%9F%8E%AC" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -19,13 +19,12 @@
 
 I am a passionate **IT Support Specialist** and **Web Developer** based in Indonesia. I love solving hardware puzzles and building robust web applications using **Laravel** and **Next.js**. 
 
-When I'm not coding or fixing servers, I usually immerse myself in the world of **Donghua**, analyzing stories like *Renegade Immortal*. I believe that code, like cultivation, requires patience and persistence to reach the apex. 🏔️
+I believe that code requires patience and persistence to reach the apex. 🏔️
 
 ### 🚀 Quick Facts
-* 🔭 I’m currently working on **SIPERU** (Campus Room Borrowing System).
-* 🌱 I’m currently learning **Next.js 15 & AI Integration** (Building [FikBot](https://github.com/MuhammadFikriiii/FikBot)).
+* 🔭 I’m currently working on **Next.js AI Integration** (Building [FikBot](https://github.com/MuhammadFikriiii/FikBot)).
+* 🌱 I’m currently learning **Next.js 15**, **React**, and **AI Agents**.
 * 🔧 I can fix your printer, your network, and your bugs.
-* 💬 Ask me about **Wang Lin** or **Laravel**.
 
 ---
 
@@ -74,10 +73,9 @@ When I'm not coding or fixing servers, I usually immerse myself in the world of 
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🤖 FikBot** | AI Chat Assistant with custom persona using Google Gemini API. | Next.js, Gemini AI |
-| **🏫 SIPERU** | Campus Room Borrowing System Management. | Laravel, MySQL |
-| **🏸 UKM Badminton** | Official website for STIE Pancasetia Badminton Club. | Astro, HTML |
-| **📺 Donghua Watch** | Streaming platform concept for Donghua lovers. | HTML, JS |
+| **🤖 [FikBot](https://github.com/MuhammadFikriiii/FikBot)** | AI Chat Assistant with custom persona using Google Gemini API. | Next.js, Gemini AI |
+| **📁 Nama Project 2** | *Isi deskripsi project kedua kamu disini...* | Laravel, MySQL |
+| **🌐 Nama Project 3** | *Isi deskripsi project ketiga kamu disini...* | HTML, CSS |
 
 ---
 

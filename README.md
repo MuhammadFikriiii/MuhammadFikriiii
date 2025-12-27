@@ -53,13 +53,11 @@ I am interested in building web, mobile, and desktop applications that are not o
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadFikriiii&bg_color=0D1117&color=02B8F7&line=02B8F7&point=FFFFFF&hide_border=true&hide_title=false&area=true)](https://github.com/ashutosh0071/github-readme-activity-graph)
 
-<br/>
-
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadFikriiii&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFikriiii&theme=radical&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://raw.githubusercontent.com/MuhammadFikriiii/MuhammadFikriiii/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details">
+<br>
+<img src="https://raw.githubusercontent.com/MuhammadFikriiii/MuhammadFikriiii/main/profile-summary-card-output/algolia/2-most-commit-language.svg" alt="Most Commit Language" height="170">
+<br>
+<img src="https://raw.githubusercontent.com/MuhammadFikriiii/MuhammadFikriiii/main/profile-summary-card-output/radical/3-stats.svg" alt="Stats" height="170">
 
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadFikriiii&theme=radical&hide_border=false)](https://github.com/DenverCoder1/github-readme-streak-stats)
 

@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1600&color=02B8F7&center=true&vCenter=true&width=500&lines=Hi+Guys!+My+Name+is+Muhammad+Fikri;I+am+a+Full+Stack+Developer" alt="Typing SVG"/>
 </div>
 
-<h3 align="center">Full Stack Developer | IT Support 👨‍💻</h3>
+<h3 align="center">Web Developer | IT Support 👨‍💻</h3>
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/3d/08/e0/3d08e03cb40252526fee2036a67f07f1.gif" width="100%" style="max-width: 800px; border-radius: 10px;">

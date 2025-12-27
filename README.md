@@ -1,88 +1,99 @@
-# <div align="center"/> Hi guys
+<div align="center">
+  <p>Visitor Count</p>
+  <img src="https://komarev.com/ghpvc/?username=MuhammadFikriiii&label=Profile%20Views&color=0e75b6&style=flat" alt="MuhammadFikriiii" />
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1600&color=02B8F7&center=true&vCenter=true&width=500&lines=My+Name+is+Muhammad+Fikri;I+am+a+Full+Stack+Developer" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1600&color=02B8F7&center=true&vCenter=true&width=500&lines=Hi+Guys!+My+Name+is+Muhammad+Fikri;I+am+a+Full+Stack+Developer" alt="Typing SVG"/>
 </div>
 
 <h3 align="center">Full Stack Developer | IT Support 👨‍💻</h3>
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/3d/08/e0/3d08e03cb40252526fee2036a67f07f1.gif" width="100%" style="max-width: 800px; border-radius: 10px;">
-  
-  <br/><br/>
-
-  ![snake gif](https://github.com/anharsaja/anharsaja/blob/output/github-contribution-grid-snake-dark.svg)
-  
-</div>
-  
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-fikri-9075b2299)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadFikriiii)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mfikri.724)
-  
 </div>
 
+<br/>
 
 ## 👨‍💻 About Me
 
-I am a student in the Applied Bachelor's Program in Informatics Engineering at **Banjarmasin State Polytechnic**. I have a strong interest and passion for developing as a Full Stack Developer. I have a solid understanding of programming languages, database management, and troubleshooting. 
+I am a student in the Applied Bachelor's Program in Informatics Engineering at **Banjarmasin State Polytechnic**. I have a strong interest and passion for developing as a Full Stack Developer. I have a solid understanding of programming languages, database management, and troubleshooting.
 
 I am interested in building web, mobile, and desktop applications that are not only functional but also provide an optimal user experience. I am ready to contribute to the world of technology and provide innovative digital solutions.
 
 ## 🛠️ Technologies and Tools
 
-- **Languages**: Java, JavaScript, PHP, HTML, CSS
-- **Frameworks**: Next.js, Laravel, Tailwind CSS, React
-- **Databases**: MySQL, PostgreSQL
-- **Tools**: Git, Figma, VS Code, XAMPP
+<div align="center">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <br/>
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <br/>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+</div>
 
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-</p>
+<br/>
 
-## 📈 GitHub Stats
+## 🏆 Achievements & Stats
 
-![Fikri's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadFikriiii&show_icons=true&rank_icon=github)
-![](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadFikriiii&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFikriiii&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=MuhammadFikriiii&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=MuhammadFikriiii&show_icons=true&rank_icon=github&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFikriiii&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadFikriiii&theme=radical&hide_border=false)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+</div>
+
+<div align="center">
+  <h3>🐍 My Contribution Snake</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadFikriiii/MuhammadFikriiii/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadFikriiii/MuhammadFikriiii/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MuhammadFikriiii/MuhammadFikriiii/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ## 📌 Pinned Repositories
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadFikriiii&repo=FikBot&theme=radical)](https://github.com/MuhammadFikriiii/FikBot)
 
-## 📫 Contact Me!!!
-
-Feel free to reach out to me for any collaboration or discussion:
-
-- Email: fikri772277@gmail.com
-- LinkedIn: [Muhammad Fikri](https://www.linkedin.com/in/muhammad-fikri-9075b2299)
-
-## 🎁 Support My Work
+## 📫 Contact Me & Socials
 
 <div align="center">
-  <i>✨ "It's not a bug – it's an undocumented feature." - Muhammad Fikri ✨</i>
+  <a href="https://www.linkedin.com/in/muhammad-fikri-9075b2299">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/MuhammadFikriiii">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.instagram.com/mfikri.724">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <br/>
+  <b>Email:</b> fikri772277@gmail.com
 </div>
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/a5/5f/3a/a55f3a50c3e6737c179769f973315477.gif" width="400" />
-</div>
+<br/>
 
 <div align="center">
-  <i> © 2025 Muhammad Fikri. All Rights Reserved </i>
+  <i>✨ "It's not a bug – it's an undocumented feature." - Muhammad Fikri ✨</i>
+  <br/>
+  <img src="https://i.pinimg.com/originals/a5/5f/3a/a55f3a50c3e6737c179769f973315477.gif" width="300" />
+  <br/>
+  <i> © 2025 Muhammad Fikri. All Rights Reserved </i>
 </div>

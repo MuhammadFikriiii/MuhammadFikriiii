@@ -47,13 +47,19 @@ I am interested in building web, mobile, and desktop applications that are not o
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=MuhammadFikriiii&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+## 📈 Coding Activity & Stats
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadFikriiii&bg_color=0D1117&color=02B8F7&line=02B8F7&point=FFFFFF&hide_border=true&hide_title=false&area=true)](https://github.com/ashutosh0071/github-readme-activity-graph)
 
 <br/>
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=MuhammadFikriiii&show_icons=true&rank_icon=github&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadFikriiii&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFikriiii&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFikriiii&theme=radical&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadFikriiii&theme=radical&hide_border=false)](https://github.com/DenverCoder1/github-readme-streak-stats)
 

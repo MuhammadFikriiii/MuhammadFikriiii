@@ -55,7 +55,7 @@ I am interested in building web, mobile, and desktop applications that are not o
 
 <img src="https://raw.githubusercontent.com/MuhammadFikriiii/MuhammadFikriiii/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details">
 <br>
-<img src="https://raw.githubusercontent.com/MuhammadFikriiii/MuhammadFikriiii/main/profile-summary-card-output/algolia/2-most-commit-language.svg" alt="Most Commit Language" height="170">
+<img src="https://raw.githubusercontent.com/MuhammadFikriiii/MuhammadFikriiii/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most Commit Language" height="170">
 <br>
 <img src="https://raw.githubusercontent.com/MuhammadFikriiii/MuhammadFikriiii/main/profile-summary-card-output/radical/3-stats.svg" alt="Stats" height="170">
 

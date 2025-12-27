@@ -24,7 +24,7 @@
 </div>
 
 
-## 👨‍💻 About Me <img align="right" width="180" src="https://media1.tenor.com/m/ZUu2eKdA8BwAAAAd/petting-shiroko-shiroko-fumo.gif" alt="anime gif" />
+## 👨‍💻 About Me
 
 I am a student in the Applied Bachelor's Program in Informatics Engineering at **Banjarmasin State Polytechnic**. I have a strong interest and passion for developing as a Full Stack Developer. I have a solid understanding of programming languages, database management, and troubleshooting. 
 

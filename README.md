@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1600&color=02B8F7&center=true&vCenter=true&width=500&lines=Hi+Guys!+My+Name+is+Muhammad+Fikri;I+am+a+Full+Stack+Developer" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1600&color=02B8F7&center=true&vCenter=true&width=500&lines=Hi+Guys!+My+Name+is+Muhammad+Fikri;I+am+a+Web+Developer" alt="Typing SVG"/>
 </div>
 
 <h3 align="center">Web Developer | IT Support 👨‍💻</h3>

@@ -96,5 +96,5 @@ I am interested in building web, mobile, and desktop applications that are not o
   <br/>
   <img src="https://i.pinimg.com/originals/a5/5f/3a/a55f3a50c3e6737c179769f973315477.gif" width="300" />
   <br/>
-  <i> © 2025 Muhammad Fikri. All Rights Reserved </i>
+  <i> © 2026 Muhammad Fikri. All Rights Reserved </i>
 </div>

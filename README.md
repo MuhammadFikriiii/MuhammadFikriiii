@@ -15,7 +15,7 @@
 
 <br/>
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me :D
 
 I am a student in the Applied Bachelor's Program in Informatics Engineering at **Banjarmasin State Polytechnic**. I have a strong interest and passion for developing as a Full Stack Developer. I have a solid understanding of programming languages, database management, and troubleshooting.
 

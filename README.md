@@ -9,10 +9,6 @@
 
 <h3 align="center">Web Developer | IT Support 👨‍💻</h3>
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/3d/08/e0/3d08e03cb40252526fee2036a67f07f1.gif" width="100%" style="max-width: 800px; border-radius: 10px;">
-</div>
-
 <br/>
 
 ## 👨‍💻 About Me :D

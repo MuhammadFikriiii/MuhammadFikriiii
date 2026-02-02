@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me :D
 
-I am a student in the Applied Bachelor's Program in Informatics Engineering at **Banjarmasin State Polytechnic**. I have a strong interest and passion for developing as a Full Stack Developer. I have a solid understanding of programming languages, database management, and troubleshooting.
+I am a student in the Applied Bachelor's Program in Informatics Engineering at **Banjarmasin State Polytechnic**. I have a strong interest and passion for developing as a Web Developer. I have a solid understanding of programming languages, database management, and troubleshooting.
 
 I am interested in building web, mobile, and desktop applications that are not only functional but also provide an optimal user experience. I am ready to contribute to the world of technology and provide innovative digital solutions.
 

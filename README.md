@@ -67,7 +67,7 @@ I am interested in building web, mobile, and desktop applications that are not o
 
 ## 📌 Pinned Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadFikriiii&repo=FikBot&theme=radical)](https://github.com/MuhammadFikriiii/FikBot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadFikriiii&repo=deeptools&theme=radical)](https://github.com/MuhammadFikriiii/deeptools)
 
 ## 📫 Contact Me & Socials
 
